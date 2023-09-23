@@ -7,10 +7,11 @@ import sys
 def main():
     args = sys.argv
 
-    if len(args) != 2:
+    if len(args) != 3:
         return
 
-    token = args[1]
+    user = args[1]
+    token = args[2]
     headers = {
         'Authorization': f'Bearer {token}'
     }
@@ -18,7 +19,7 @@ def main():
     client = Client(transport=transport)
     query = gql("""
     query {
-      user(login: "enkatsu"){
+      user(login: "%s"){
         contributionsCollection {
           contributionCalendar {
             totalContributions
@@ -33,7 +34,7 @@ def main():
         }
       }
     }
-    """)
+    """ % user)
     result = client.execute(query)
     with open('data/contributions.json', 'w') as f:
         json.dump(result, f, indent=2)
