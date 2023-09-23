@@ -26,6 +26,7 @@ def main():
               contributionDays {
                 contributionCount
                 date
+                color
               }
             }
           }
