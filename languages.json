@@ -509,16 +509,16 @@
               },
               {
                 "node": {
-                  "id": "MDg6TGFuZ3VhZ2UzMDg=",
-                  "name": "CSS",
-                  "color": "#563d7c"
+                  "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                  "name": "JavaScript",
+                  "color": "#f1e05a"
                 }
               },
               {
                 "node": {
-                  "id": "MDg6TGFuZ3VhZ2UxNDA=",
-                  "name": "JavaScript",
-                  "color": "#f1e05a"
+                  "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                  "name": "CSS",
+                  "color": "#563d7c"
                 }
               }
             ]
