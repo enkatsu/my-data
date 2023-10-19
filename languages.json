@@ -7,6 +7,19 @@
             "edges": [
               {
                 "node": {
+                  "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                  "name": "Python",
+                  "color": "#3572A5"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "languages": {
+            "edges": [
+              {
+                "node": {
                   "id": "MDg6TGFuZ3VhZ2UxNTg=",
                   "name": "Java",
                   "color": "#b07219"
@@ -612,19 +625,6 @@
                   "id": "MDg6TGFuZ3VhZ2UzMDM=",
                   "name": "M",
                   "color": null
-                }
-              }
-            ]
-          }
-        },
-        {
-          "languages": {
-            "edges": [
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2UzMDE=",
-                  "name": "Processing",
-                  "color": "#0096D8"
                 }
               }
             ]
