@@ -7,6 +7,33 @@
             "edges": [
               {
                 "node": {
+                  "id": "MDg6TGFuZ3VhZ2U2MDU=",
+                  "name": "SCSS",
+                  "color": "#c6538c"
+                }
+              },
+              {
+                "node": {
+                  "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                  "name": "HTML",
+                  "color": "#e34c26"
+                }
+              },
+              {
+                "node": {
+                  "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                  "name": "JavaScript",
+                  "color": "#f1e05a"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "languages": {
+            "edges": [
+              {
+                "node": {
                   "id": "MDg6TGFuZ3VhZ2UxNDU=",
                   "name": "Python",
                   "color": "#3572A5"
@@ -584,47 +611,6 @@
                   "id": "MDg6TGFuZ3VhZ2UzNzE=",
                   "name": "Swift",
                   "color": "#F05138"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "languages": {
-            "edges": [
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2UyNDc=",
-                  "name": "MATLAB",
-                  "color": "#e16737"
-                }
-              },
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2UxNDU=",
-                  "name": "Python",
-                  "color": "#3572A5"
-                }
-              },
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2UzNTU=",
-                  "name": "Mathematica",
-                  "color": "#dd1100"
-                }
-              },
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2UxNDI=",
-                  "name": "C++",
-                  "color": "#f34b7d"
-                }
-              },
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2UzMDM=",
-                  "name": "M",
-                  "color": null
                 }
               }
             ]
