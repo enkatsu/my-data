@@ -7,6 +7,33 @@
             "edges": [
               {
                 "node": {
+                  "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                  "name": "HTML",
+                  "color": "#e34c26"
+                }
+              },
+              {
+                "node": {
+                  "id": "MDg6TGFuZ3VhZ2UzMDE=",
+                  "name": "Processing",
+                  "color": "#0096D8"
+                }
+              },
+              {
+                "node": {
+                  "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                  "name": "JavaScript",
+                  "color": "#f1e05a"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "languages": {
+            "edges": [
+              {
+                "node": {
                   "id": "MDg6TGFuZ3VhZ2UxNDI=",
                   "name": "C++",
                   "color": "#f34b7d"
@@ -605,19 +632,6 @@
                   "id": "MDg6TGFuZ3VhZ2UxNDA=",
                   "name": "JavaScript",
                   "color": "#f1e05a"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "languages": {
-            "edges": [
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2U0MTc=",
-                  "name": "HTML",
-                  "color": "#e34c26"
                 }
               }
             ]
