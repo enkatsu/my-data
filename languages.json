@@ -7,6 +7,33 @@
             "edges": [
               {
                 "node": {
+                  "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                  "name": "JavaScript",
+                  "color": "#f1e05a"
+                }
+              },
+              {
+                "node": {
+                  "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                  "name": "HTML",
+                  "color": "#e34c26"
+                }
+              },
+              {
+                "node": {
+                  "id": "MDg6TGFuZ3VhZ2U3NDk=",
+                  "name": "Faust",
+                  "color": "#c37240"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "languages": {
+            "edges": [
+              {
+                "node": {
                   "id": "MDg6TGFuZ3VhZ2UxNDI=",
                   "name": "C++",
                   "color": "#f34b7d"
@@ -598,33 +625,6 @@
                   "id": "MDg6TGFuZ3VhZ2U1Mzg=",
                   "name": "EJS",
                   "color": "#a91e50"
-                }
-              },
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2UzMDg=",
-                  "name": "CSS",
-                  "color": "#563d7c"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "languages": {
-            "edges": [
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2U0MTc=",
-                  "name": "HTML",
-                  "color": "#e34c26"
-                }
-              },
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2UxNDA=",
-                  "name": "JavaScript",
-                  "color": "#f1e05a"
                 }
               },
               {
