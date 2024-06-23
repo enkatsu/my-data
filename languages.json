@@ -7,6 +7,26 @@
             "edges": [
               {
                 "node": {
+                  "id": "MDg6TGFuZ3VhZ2UzMDE=",
+                  "name": "Processing",
+                  "color": "#0096D8"
+                }
+              },
+              {
+                "node": {
+                  "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                  "name": "JavaScript",
+                  "color": "#f1e05a"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "languages": {
+            "edges": [
+              {
+                "node": {
                   "id": "MDg6TGFuZ3VhZ2UxNDI=",
                   "name": "C++",
                   "color": "#f34b7d"
@@ -555,33 +575,6 @@
                   "id": "MDg6TGFuZ3VhZ2UzMDg=",
                   "name": "CSS",
                   "color": "#563d7c"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "languages": {
-            "edges": [
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2UxNDI=",
-                  "name": "C++",
-                  "color": "#f34b7d"
-                }
-              },
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2U0MDM=",
-                  "name": "Makefile",
-                  "color": "#427819"
-                }
-              },
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2UzMDE=",
-                  "name": "Processing",
-                  "color": "#0096D8"
                 }
               }
             ]
