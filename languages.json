@@ -68,6 +68,13 @@
               },
               {
                 "node": {
+                  "id": "MDg6TGFuZ3VhZ2UyODc=",
+                  "name": "TypeScript",
+                  "color": "#3178c6"
+                }
+              },
+              {
+                "node": {
                   "id": "MDg6TGFuZ3VhZ2U0MTc=",
                   "name": "HTML",
                   "color": "#e34c26"
