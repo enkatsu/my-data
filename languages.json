@@ -11,6 +11,19 @@
                   "name": "Java",
                   "color": "#b07219"
                 }
+              }
+            ]
+          }
+        },
+        {
+          "languages": {
+            "edges": [
+              {
+                "node": {
+                  "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                  "name": "Java",
+                  "color": "#b07219"
+                }
               },
               {
                 "node": {
@@ -583,19 +596,6 @@
                   "id": "MDg6TGFuZ3VhZ2UxNDI=",
                   "name": "C++",
                   "color": "#f34b7d"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "languages": {
-            "edges": [
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2UxNDU=",
-                  "name": "Python",
-                  "color": "#3572A5"
                 }
               }
             ]
