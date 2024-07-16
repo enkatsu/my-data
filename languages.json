@@ -7,6 +7,19 @@
             "edges": [
               {
                 "node": {
+                  "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                  "name": "HTML",
+                  "color": "#e34c26"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "languages": {
+            "edges": [
+              {
+                "node": {
                   "id": "LAN_kgDNA4c",
                   "name": "MDX",
                   "color": "#fcb32c"
@@ -597,19 +610,6 @@
                   "id": "MDg6TGFuZ3VhZ2UxNDE=",
                   "name": "Ruby",
                   "color": "#701516"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "languages": {
-            "edges": [
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2UxNDA=",
-                  "name": "JavaScript",
-                  "color": "#f1e05a"
                 }
               }
             ]
