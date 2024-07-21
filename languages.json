@@ -27,6 +27,39 @@
             "edges": [
               {
                 "node": {
+                  "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                  "name": "JavaScript",
+                  "color": "#f1e05a"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "languages": {
+            "edges": [
+              {
+                "node": {
+                  "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                  "name": "JavaScript",
+                  "color": "#f1e05a"
+                }
+              },
+              {
+                "node": {
+                  "id": "MDg6TGFuZ3VhZ2U0MTc=",
+                  "name": "HTML",
+                  "color": "#e34c26"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "languages": {
+            "edges": [
+              {
+                "node": {
                   "id": "MDg6TGFuZ3VhZ2U0MTc=",
                   "name": "HTML",
                   "color": "#e34c26"
@@ -579,39 +612,6 @@
                   "color": "#0096D8"
                 }
               },
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2UyNDk=",
-                  "name": "Rust",
-                  "color": "#dea584"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "languages": {
-            "edges": [
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2UxNDA=",
-                  "name": "JavaScript",
-                  "color": "#f1e05a"
-                }
-              },
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2U0MTc=",
-                  "name": "HTML",
-                  "color": "#e34c26"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "languages": {
-            "edges": [
               {
                 "node": {
                   "id": "MDg6TGFuZ3VhZ2UyNDk=",
