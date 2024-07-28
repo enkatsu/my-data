@@ -7,6 +7,19 @@
             "edges": [
               {
                 "node": {
+                  "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                  "name": "Java",
+                  "color": "#b07219"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "languages": {
+            "edges": [
+              {
+                "node": {
                   "id": "MDg6TGFuZ3VhZ2UxNDA=",
                   "name": "JavaScript",
                   "color": "#f1e05a"
@@ -597,26 +610,6 @@
                   "id": "MDg6TGFuZ3VhZ2UzMDE=",
                   "name": "Processing",
                   "color": "#0096D8"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "languages": {
-            "edges": [
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2UzMDE=",
-                  "name": "Processing",
-                  "color": "#0096D8"
-                }
-              },
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2UyNDk=",
-                  "name": "Rust",
-                  "color": "#dea584"
                 }
               }
             ]
