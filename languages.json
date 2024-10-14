@@ -9,6 +9,11 @@
         },
         {
           "languages": {
+            "edges": []
+          }
+        },
+        {
+          "languages": {
             "edges": [
               {
                 "node": {
@@ -582,26 +587,6 @@
                   "id": "MDg6TGFuZ3VhZ2UxNDk=",
                   "name": "C",
                   "color": "#555555"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "languages": {
-            "edges": [
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2UxNDI=",
-                  "name": "C++",
-                  "color": "#f34b7d"
-                }
-              },
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2U0MDM=",
-                  "name": "Makefile",
-                  "color": "#427819"
                 }
               }
             ]
