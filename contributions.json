@@ -2,47 +2,8 @@
   "user": {
     "contributionsCollection": {
       "contributionCalendar": {
-        "totalContributions": 1185,
+        "totalContributions": 1186,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "contributionCount": 1,
-                "date": "2023-12-10",
-                "color": "#9be9a8"
-              },
-              {
-                "contributionCount": 1,
-                "date": "2023-12-11",
-                "color": "#9be9a8"
-              },
-              {
-                "contributionCount": 1,
-                "date": "2023-12-12",
-                "color": "#9be9a8"
-              },
-              {
-                "contributionCount": 1,
-                "date": "2023-12-13",
-                "color": "#9be9a8"
-              },
-              {
-                "contributionCount": 1,
-                "date": "2023-12-14",
-                "color": "#9be9a8"
-              },
-              {
-                "contributionCount": 1,
-                "date": "2023-12-15",
-                "color": "#9be9a8"
-              },
-              {
-                "contributionCount": 1,
-                "date": "2023-12-16",
-                "color": "#9be9a8"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -2065,8 +2026,17 @@
                 "color": "#9be9a8"
               },
               {
-                "contributionCount": 0,
+                "contributionCount": 1,
                 "date": "2024-12-14",
+                "color": "#9be9a8"
+              }
+            ]
+          },
+          {
+            "contributionDays": [
+              {
+                "contributionCount": 0,
+                "date": "2024-12-15",
                 "color": "#ebedf0"
               }
             ]
