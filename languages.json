@@ -7,6 +7,19 @@
             "edges": [
               {
                 "node": {
+                  "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                  "name": "JavaScript",
+                  "color": "#f1e05a"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "languages": {
+            "edges": [
+              {
+                "node": {
                   "id": "MDg6TGFuZ3VhZ2UxNDU=",
                   "name": "Python",
                   "color": "#3572A5"
@@ -567,26 +580,6 @@
                   "id": "MDg6TGFuZ3VhZ2UxNDA=",
                   "name": "JavaScript",
                   "color": "#f1e05a"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "languages": {
-            "edges": [
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2UxNDI=",
-                  "name": "C++",
-                  "color": "#f34b7d"
-                }
-              },
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2UzMDE=",
-                  "name": "Processing",
-                  "color": "#0096D8"
                 }
               }
             ]
