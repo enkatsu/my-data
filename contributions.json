@@ -2,7 +2,7 @@
   "user": {
     "contributionsCollection": {
       "contributionCalendar": {
-        "totalContributions": 1526,
+        "totalContributions": 1525,
         "weeks": [
           {
             "contributionDays": [
@@ -1158,12 +1158,12 @@
                 "color": "#9be9a8"
               },
               {
-                "contributionCount": 4,
+                "contributionCount": 1,
                 "date": "2024-11-28",
                 "color": "#9be9a8"
               },
               {
-                "contributionCount": 2,
+                "contributionCount": 1,
                 "date": "2024-11-29",
                 "color": "#9be9a8"
               },
@@ -1831,7 +1831,7 @@
                 "color": "#9be9a8"
               },
               {
-                "contributionCount": 5,
+                "contributionCount": 1,
                 "date": "2025-03-29",
                 "color": "#9be9a8"
               }
@@ -2060,8 +2060,13 @@
                 "color": "#9be9a8"
               },
               {
-                "contributionCount": 0,
+                "contributionCount": 7,
                 "date": "2025-05-09",
+                "color": "#9be9a8"
+              },
+              {
+                "contributionCount": 0,
+                "date": "2025-05-10",
                 "color": "#ebedf0"
               }
             ]
