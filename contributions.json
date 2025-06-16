@@ -2,14 +2,14 @@
   "user": {
     "contributionsCollection": {
       "contributionCalendar": {
-        "totalContributions": 1291,
+        "totalContributions": 1154,
         "weeks": [
           {
             "contributionDays": [
               {
                 "contributionCount": 15,
                 "date": "2024-06-16",
-                "color": "#9be9a8"
+                "color": "#40c463"
               },
               {
                 "contributionCount": 7,
@@ -19,7 +19,7 @@
               {
                 "contributionCount": 26,
                 "date": "2024-06-18",
-                "color": "#40c463"
+                "color": "#30a14e"
               },
               {
                 "contributionCount": 3,
@@ -29,7 +29,7 @@
               {
                 "contributionCount": 25,
                 "date": "2024-06-20",
-                "color": "#40c463"
+                "color": "#30a14e"
               },
               {
                 "contributionCount": 10,
@@ -39,7 +39,7 @@
               {
                 "contributionCount": 29,
                 "date": "2024-06-22",
-                "color": "#40c463"
+                "color": "#30a14e"
               }
             ]
           },
@@ -48,22 +48,22 @@
               {
                 "contributionCount": 14,
                 "date": "2024-06-23",
-                "color": "#9be9a8"
+                "color": "#40c463"
               },
               {
                 "contributionCount": 42,
                 "date": "2024-06-24",
-                "color": "#40c463"
+                "color": "#216e39"
               },
               {
                 "contributionCount": 25,
                 "date": "2024-06-25",
-                "color": "#40c463"
+                "color": "#30a14e"
               },
               {
                 "contributionCount": 25,
                 "date": "2024-06-26",
-                "color": "#40c463"
+                "color": "#30a14e"
               },
               {
                 "contributionCount": 11,
@@ -78,7 +78,7 @@
               {
                 "contributionCount": 16,
                 "date": "2024-06-29",
-                "color": "#9be9a8"
+                "color": "#40c463"
               }
             ]
           },
@@ -97,12 +97,12 @@
               {
                 "contributionCount": 19,
                 "date": "2024-07-02",
-                "color": "#9be9a8"
+                "color": "#40c463"
               },
               {
                 "contributionCount": 23,
                 "date": "2024-07-03",
-                "color": "#40c463"
+                "color": "#30a14e"
               },
               {
                 "contributionCount": 6,
@@ -126,7 +126,7 @@
               {
                 "contributionCount": 16,
                 "date": "2024-07-07",
-                "color": "#9be9a8"
+                "color": "#40c463"
               },
               {
                 "contributionCount": 2,
@@ -1126,7 +1126,7 @@
               {
                 "contributionCount": 12,
                 "date": "2025-01-03",
-                "color": "#9be9a8"
+                "color": "#40c463"
               },
               {
                 "contributionCount": 9,
@@ -1496,7 +1496,7 @@
               {
                 "contributionCount": 20,
                 "date": "2025-03-10",
-                "color": "#9be9a8"
+                "color": "#40c463"
               },
               {
                 "contributionCount": 1,
@@ -1530,17 +1530,17 @@
               {
                 "contributionCount": 24,
                 "date": "2025-03-16",
-                "color": "#40c463"
+                "color": "#30a14e"
               },
               {
                 "contributionCount": 19,
                 "date": "2025-03-17",
-                "color": "#9be9a8"
+                "color": "#40c463"
               },
               {
                 "contributionCount": 14,
                 "date": "2025-03-18",
-                "color": "#9be9a8"
+                "color": "#40c463"
               },
               {
                 "contributionCount": 3,
@@ -1560,7 +1560,7 @@
               {
                 "contributionCount": 16,
                 "date": "2025-03-22",
-                "color": "#9be9a8"
+                "color": "#40c463"
               }
             ]
           },
@@ -1574,7 +1574,7 @@
               {
                 "contributionCount": 36,
                 "date": "2025-03-24",
-                "color": "#40c463"
+                "color": "#216e39"
               },
               {
                 "contributionCount": 1,
@@ -1584,7 +1584,7 @@
               {
                 "contributionCount": 12,
                 "date": "2025-03-26",
-                "color": "#9be9a8"
+                "color": "#40c463"
               },
               {
                 "contributionCount": 1,
@@ -1701,7 +1701,7 @@
               {
                 "contributionCount": 45,
                 "date": "2025-04-16",
-                "color": "#30a14e"
+                "color": "#216e39"
               },
               {
                 "contributionCount": 5,
@@ -1730,7 +1730,7 @@
               {
                 "contributionCount": 16,
                 "date": "2025-04-21",
-                "color": "#9be9a8"
+                "color": "#40c463"
               },
               {
                 "contributionCount": 5,
@@ -1750,7 +1750,7 @@
               {
                 "contributionCount": 17,
                 "date": "2025-04-25",
-                "color": "#9be9a8"
+                "color": "#40c463"
               },
               {
                 "contributionCount": 1,
@@ -2035,8 +2035,13 @@
           {
             "contributionDays": [
               {
-                "contributionCount": 0,
+                "contributionCount": 1,
                 "date": "2025-06-15",
+                "color": "#9be9a8"
+              },
+              {
+                "contributionCount": 0,
+                "date": "2025-06-16",
                 "color": "#ebedf0"
               }
             ]
