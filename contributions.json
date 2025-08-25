@@ -2,7 +2,7 @@
   "user": {
     "contributionsCollection": {
       "contributionCalendar": {
-        "totalContributions": 977,
+        "totalContributions": 976,
         "weeks": [
           {
             "contributionDays": [
@@ -2035,9 +2035,14 @@
           {
             "contributionDays": [
               {
-                "contributionCount": 20,
+                "contributionCount": 26,
                 "date": "2025-08-24",
-                "color": "#30a14e"
+                "color": "#216e39"
+              },
+              {
+                "contributionCount": 0,
+                "date": "2025-08-25",
+                "color": "#ebedf0"
               }
             ]
           }
