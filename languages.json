@@ -7,6 +7,33 @@
             "edges": [
               {
                 "node": {
+                  "id": "MDg6TGFuZ3VhZ2UyODc=",
+                  "name": "TypeScript",
+                  "color": "#3178c6"
+                }
+              },
+              {
+                "node": {
+                  "id": "MDg6TGFuZ3VhZ2UxNDA=",
+                  "name": "JavaScript",
+                  "color": "#f1e05a"
+                }
+              },
+              {
+                "node": {
+                  "id": "MDg6TGFuZ3VhZ2UzMDg=",
+                  "name": "CSS",
+                  "color": "#663399"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "languages": {
+            "edges": [
+              {
+                "node": {
                   "id": "MDg6TGFuZ3VhZ2U0NDA=",
                   "name": "CMake",
                   "color": "#DA3434"
@@ -609,19 +636,6 @@
                   "id": "MDg6TGFuZ3VhZ2U2MDU=",
                   "name": "SCSS",
                   "color": "#c6538c"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "languages": {
-            "edges": [
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2UxNTg=",
-                  "name": "Java",
-                  "color": "#b07219"
                 }
               }
             ]
