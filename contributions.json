@@ -2,47 +2,8 @@
   "user": {
     "contributionsCollection": {
       "contributionCalendar": {
-        "totalContributions": 1162,
+        "totalContributions": 1186,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "contributionCount": 1,
-                "date": "2024-12-08",
-                "color": "#9be9a8"
-              },
-              {
-                "contributionCount": 1,
-                "date": "2024-12-09",
-                "color": "#9be9a8"
-              },
-              {
-                "contributionCount": 1,
-                "date": "2024-12-10",
-                "color": "#9be9a8"
-              },
-              {
-                "contributionCount": 6,
-                "date": "2024-12-11",
-                "color": "#9be9a8"
-              },
-              {
-                "contributionCount": 1,
-                "date": "2024-12-12",
-                "color": "#9be9a8"
-              },
-              {
-                "contributionCount": 1,
-                "date": "2024-12-13",
-                "color": "#9be9a8"
-              },
-              {
-                "contributionCount": 1,
-                "date": "2024-12-14",
-                "color": "#9be9a8"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -1938,17 +1899,17 @@
                 "color": "#9be9a8"
               },
               {
-                "contributionCount": 1,
+                "contributionCount": 4,
                 "date": "2025-11-20",
                 "color": "#9be9a8"
               },
               {
-                "contributionCount": 1,
+                "contributionCount": 6,
                 "date": "2025-11-21",
                 "color": "#9be9a8"
               },
               {
-                "contributionCount": 1,
+                "contributionCount": 7,
                 "date": "2025-11-22",
                 "color": "#9be9a8"
               }
@@ -1957,7 +1918,7 @@
           {
             "contributionDays": [
               {
-                "contributionCount": 1,
+                "contributionCount": 6,
                 "date": "2025-11-23",
                 "color": "#9be9a8"
               },
@@ -2065,8 +2026,17 @@
                 "color": "#9be9a8"
               },
               {
-                "contributionCount": 1,
+                "contributionCount": 4,
                 "date": "2025-12-13",
+                "color": "#9be9a8"
+              }
+            ]
+          },
+          {
+            "contributionDays": [
+              {
+                "contributionCount": 2,
+                "date": "2025-12-14",
                 "color": "#9be9a8"
               }
             ]
