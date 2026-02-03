@@ -68,6 +68,26 @@
             "edges": [
               {
                 "node": {
+                  "id": "MDg6TGFuZ3VhZ2UxNTg=",
+                  "name": "Java",
+                  "color": "#b07219"
+                }
+              },
+              {
+                "node": {
+                  "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                  "name": "Python",
+                  "color": "#3572A5"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "languages": {
+            "edges": [
+              {
+                "node": {
                   "id": "MDg6TGFuZ3VhZ2U0NDA=",
                   "name": "CMake",
                   "color": "#DA3434"
@@ -616,19 +636,6 @@
                   "id": "MDg6TGFuZ3VhZ2U2MDU=",
                   "name": "SCSS",
                   "color": "#c6538c"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "languages": {
-            "edges": [
-              {
-                "node": {
-                  "id": "MDg6TGFuZ3VhZ2U0MTc=",
-                  "name": "HTML",
-                  "color": "#e34c26"
                 }
               }
             ]
