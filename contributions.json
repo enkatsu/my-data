@@ -2,47 +2,8 @@
   "user": {
     "contributionsCollection": {
       "contributionCalendar": {
-        "totalContributions": 804,
+        "totalContributions": 810,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "contributionCount": 1,
-                "date": "2025-05-25",
-                "color": "#9be9a8"
-              },
-              {
-                "contributionCount": 1,
-                "date": "2025-05-26",
-                "color": "#9be9a8"
-              },
-              {
-                "contributionCount": 1,
-                "date": "2025-05-27",
-                "color": "#9be9a8"
-              },
-              {
-                "contributionCount": 1,
-                "date": "2025-05-28",
-                "color": "#9be9a8"
-              },
-              {
-                "contributionCount": 1,
-                "date": "2025-05-29",
-                "color": "#9be9a8"
-              },
-              {
-                "contributionCount": 1,
-                "date": "2025-05-30",
-                "color": "#9be9a8"
-              },
-              {
-                "contributionCount": 1,
-                "date": "2025-05-31",
-                "color": "#9be9a8"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -2016,7 +1977,7 @@
                 "color": "#9be9a8"
               },
               {
-                "contributionCount": 1,
+                "contributionCount": 2,
                 "date": "2026-05-21",
                 "color": "#9be9a8"
               },
@@ -2065,8 +2026,17 @@
                 "color": "#9be9a8"
               },
               {
-                "contributionCount": 0,
+                "contributionCount": 5,
                 "date": "2026-05-30",
+                "color": "#9be9a8"
+              }
+            ]
+          },
+          {
+            "contributionDays": [
+              {
+                "contributionCount": 0,
+                "date": "2026-05-31",
                 "color": "#ebedf0"
               }
             ]
