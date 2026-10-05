@@ -2,7 +2,7 @@
   "user": {
     "contributionsCollection": {
       "contributionCalendar": {
-        "totalContributions": 601,
+        "totalContributions": 595,
         "weeks": [
           {
             "contributionDays": [
@@ -97,7 +97,7 @@
               {
                 "contributionCount": 8,
                 "date": "2025-10-21",
-                "color": "#30a14e"
+                "color": "#40c463"
               },
               {
                 "contributionCount": 1,
@@ -170,7 +170,7 @@
               {
                 "contributionCount": 8,
                 "date": "2025-11-03",
-                "color": "#30a14e"
+                "color": "#40c463"
               },
               {
                 "contributionCount": 1,
@@ -180,7 +180,7 @@
               {
                 "contributionCount": 4,
                 "date": "2025-11-05",
-                "color": "#40c463"
+                "color": "#9be9a8"
               },
               {
                 "contributionCount": 1,
@@ -204,7 +204,7 @@
               {
                 "contributionCount": 4,
                 "date": "2025-11-09",
-                "color": "#40c463"
+                "color": "#9be9a8"
               },
               {
                 "contributionCount": 1,
@@ -263,7 +263,7 @@
               {
                 "contributionCount": 4,
                 "date": "2025-11-20",
-                "color": "#40c463"
+                "color": "#9be9a8"
               },
               {
                 "contributionCount": 6,
@@ -390,7 +390,7 @@
               {
                 "contributionCount": 4,
                 "date": "2025-12-13",
-                "color": "#40c463"
+                "color": "#9be9a8"
               }
             ]
           },
@@ -1248,7 +1248,7 @@
               {
                 "contributionCount": 4,
                 "date": "2026-05-16",
-                "color": "#40c463"
+                "color": "#9be9a8"
               }
             ]
           },
@@ -1257,7 +1257,7 @@
               {
                 "contributionCount": 4,
                 "date": "2026-05-17",
-                "color": "#40c463"
+                "color": "#9be9a8"
               },
               {
                 "contributionCount": 1,
@@ -1774,7 +1774,7 @@
               {
                 "contributionCount": 4,
                 "date": "2026-08-18",
-                "color": "#40c463"
+                "color": "#9be9a8"
               },
               {
                 "contributionCount": 3,
@@ -1891,7 +1891,7 @@
               {
                 "contributionCount": 4,
                 "date": "2026-09-08",
-                "color": "#40c463"
+                "color": "#9be9a8"
               },
               {
                 "contributionCount": 3,
@@ -2018,7 +2018,7 @@
               {
                 "contributionCount": 4,
                 "date": "2026-10-01",
-                "color": "#40c463"
+                "color": "#9be9a8"
               },
               {
                 "contributionCount": 3,
@@ -2035,9 +2035,14 @@
           {
             "contributionDays": [
               {
-                "contributionCount": 14,
+                "contributionCount": 16,
                 "date": "2026-10-04",
                 "color": "#216e39"
+              },
+              {
+                "contributionCount": 0,
+                "date": "2026-10-05",
+                "color": "#ebedf0"
               }
             ]
           }
